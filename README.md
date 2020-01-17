@@ -93,3 +93,7 @@ Let me know if you have any questions.
 
 
 [K8s tools](https://github.com/mkrupczak3/K8S-tools-link)
+
+[Run Kubernetes on Your Machine](https://itnext.io/run-kubernetes-on-your-machine-7ee463af21a2)
+
+^Anti-Paywall addon for the above (for try before buy of course): [nextgens/anti-paywall](https://github.com/nextgens/anti-paywall)
